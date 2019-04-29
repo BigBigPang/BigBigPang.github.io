@@ -7,7 +7,7 @@ description: "一千种生活方式，你选择哪一种？"
 keyword: "BigBigPang, BigPang Theory, Apple, Digital"
 url: "http://bigbigpang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/BigBigPang/BigBigPang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
