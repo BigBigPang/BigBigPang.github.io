@@ -17,4 +17,4 @@ tags:
 
 然而遗憾的是这些流媒体服务目前并没有进入中国大陆，直接访问你会得到一个这样的界面：
 
-[![](http://upload-images.jianshu.io/upload_images/2178672-d58bb45f9faedb70.jpg)](http://qiubaiying.github.io/)
+[![](https://i.loli.net/2019/04/30/5cc85376c6283.png)
