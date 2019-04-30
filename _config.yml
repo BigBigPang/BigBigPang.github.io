@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 2213c5bb717c3d5aab33                            #生成的clientID
+  clientSecret: ab6906689b03d6b129df322ac5d98928dcf985cb    #生成的clientSecret
   repo: BigBigPang.github.io    #仓库名称
   owner: BigBigPang    #github用户名
   admin: BigBigPang
