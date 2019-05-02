@@ -91,6 +91,8 @@ Shadowsocks服务器的搭建需要一定的电脑技术，如果你是一个不
 
 # 第三部分：观看 Netflix & HBO 的正确姿势
 
+## 1.客户端下载
+
 当你有了一个Netflix 或 HBO的会员账户以及一个适用的ss（R）节点之后，你就已经具备了基本的观看条件了，具体该如何操作呢？
 
 要想使用SS（R）的节点你还需要一个SS（R）的客户端，客户端是安装在用户的电脑、手机等设备上的软件或APP，用来连接Shadowsocks服务器以达到翻墙的目的。
@@ -101,6 +103,21 @@ Shadowsocks服务器的搭建需要一定的电脑技术，如果你是一个不
 * Mac电脑：[下载 ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 * 安卓手机/平板：[下载 Shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 * 苹果手机/平板：知名的SS（R）客户端在国区appstore均遭到下架，推荐到非大陆地区的appstore下载「shadowrocket」「Quantumult」「Surge」等
+
+## 2.客户端安装及运行
+
+这里我们以Windows平台下的SSR客户端为例,其他平台大同小异。
+
+SSR下载完成后，解压，然后后运行ShadowsocksR-dotnet2.0.exe 或 ShadowsocksR-dotnet4.0.exe 即可。
+
+SSR Windows客户端的运行，需要.net环境的支持，一般来说Win7以上系统可以直接运行。
+
+如果运行时提示错误，那么需要先[下载安装Microsoft .NET Framework 4](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
+
+
+
+
+
 
 
 
