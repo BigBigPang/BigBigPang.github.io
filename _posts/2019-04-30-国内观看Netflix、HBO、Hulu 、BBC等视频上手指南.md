@@ -69,11 +69,11 @@ Netflix 和 HBO 有 Android 和 iOS 客户端。根据当前的网络和具体�
 
 Netflix 和 HBO 不在中国提供服务，且为了版权方的利益，对视频内容进行了锁区。绝大部分的 VPN 和 VPS IP地址都被加入了黑名单，此部分介绍尚未被封锁的一些代理服务。
 
-## 1. VPN
+## 1.VPN
 
 目前有一些实力雄厚的厂商提供可以看 Netflix 的 VPN，像EXPRESS VPN、TorGuard VPN、NordVPN等等，但往往只有部分线路支持。同时因为中国特殊的网络环境，速度都不够理想，且价格并不便宜，因此在这里并不推荐这种方法。
 
-## 2. Shadowsocks（SS&SSR）
+## 2.Shadowsocks（SS&SSR）
 
 Shadowsocks本质上并不是一个软件或品牌，而是一种用于翻墙的技术协议。Shadowsocks背后也并没有一家公司在支持，而是由志愿者免费开发，并开源提供给大家使用的。而使用了未被 Netflix 和 HBO 拉入黑名单的VPS服务器搭建的 SS（R） 节点也同时成为了观看 Netflix 和 HBO 的利器。
 
