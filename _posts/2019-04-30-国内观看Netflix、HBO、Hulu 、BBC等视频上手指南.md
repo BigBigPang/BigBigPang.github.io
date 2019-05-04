@@ -158,6 +158,9 @@ SSR Windows客户端的运行，需要.net环境的支持，一般来说Win7以�
    4.使用浏览器访问Netflix、HBO、Youtube 等网站，如果可以打开，则代表连接成功。
    
    默认设置情况下，国内IP直接连接，国外IP通过SSR代理访问。
+   
+![](https://i.loli.net/2019/05/04/5ccd6e85cbe7c.png)
+![](https://i.loli.net/2019/05/04/5ccd6e8ed6630.png)
 
 
 
