@@ -106,13 +106,19 @@ Shadowsocks服务器的搭建需要一定的电脑技术，如果你是一个不
 
 ## 2.客户端安装及运行
 
-这里我们以Windows平台下的SSR客户端为例,其他平台大同小异。
+这里我们以Windows平台下的SSR客户端为例,不同平台的Shadowsocks软件和App的界面不尽相同，我们就不一一具体介绍了。在设置时最关键的步骤是输入服务器的信息，包括服务器IP、端口，密码，加密方式等等。只有这些信息全部输入正确，Shadowsocks才能连上。
 
 SSR下载完成后，解压，然后后运行ShadowsocksR-dotnet2.0.exe 或 ShadowsocksR-dotnet4.0.exe 即可。
 
 SSR Windows客户端的运行，需要.net环境的支持，一般来说Win7以上系统可以直接运行。
 
 如果运行时提示错误，那么需要先[下载安装Microsoft .NET Framework 4](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
+
+## 3.SSR客户端使用教程
+
+   1.SSR成功运行后，系统任务栏会出现一个小飞机标志：
+   
+![](https://ssr.tools/wp-content/uploads/2018-07-17_163552.jpg)
 
 
 
