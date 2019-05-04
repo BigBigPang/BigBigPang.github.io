@@ -116,7 +116,7 @@ SSR Windows客户端的运行，需要.net环境的支持，一般来说Win7以�
 
 ## 3.SSR客户端使用教程
 
-   1.SSR成功运行后，系统任务栏会出现一个小飞机标志：
+   1. SSR成功运行后，系统任务栏会出现一个小飞机标志：
    
 ![](https://ssr.tools/wp-content/uploads/2018-07-17_163552.jpg)
 
