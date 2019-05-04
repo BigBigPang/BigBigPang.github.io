@@ -2,7 +2,7 @@
 layout:     post
 title:      国内观看Netflix、HBO等视频上手指南
 subtitle:   保姆级教程教你如何第一时间追「神剧」
-date:       2019-04-30
+date:       2019-05-04
 author:     BigBigPang
 header-img: img/post-bg-netflix.jpg
 catalog: true
