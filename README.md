@@ -2,7 +2,7 @@
 
 
 
-博客的搭建教程修改自 [BY](https://github.com/qiubaiying/qiubaiying.github.io) ,致谢
+博客的搭建教程修改自 [BY](https://github.com/qiubaiying/qiubaiying.github.io) ,感谢
  
 
 >
